@@ -1,1 +1,21 @@
-# Integration-of-lightweight-Speech-Enhancement-Frameworka
+# Lightweight Real-Time Speech Enhancement Framework
+
+<img src="https://raw.githubusercontent.com/speechbrain/speechbrain/develop/docs/images/speechbrain_logo.png" width="300" alt="SpeechBrain Integration">
+
+## Overview
+A PyTorch-based framework for deploying ultra-lightweight speech enhancement models, featuring seamless integration with SpeechBrain's training pipelines and optimized spectral processing modules.
+
+## Key Features
+- 🚀 **Edge-Optimized Architectures**: Support for GTCRN and DTLN models
+- 🔌 **SpeechBrain Compatibility**: Integrated training pipelines and data loaders
+
+
+## Installation
+
+```bash
+# Create and activate conda environment
+conda env create -f environment.yml
+conda activate edgespeech
+
+# Verify installation
+python -c "import torch; import speechbrain; print('Installation successful!')"
