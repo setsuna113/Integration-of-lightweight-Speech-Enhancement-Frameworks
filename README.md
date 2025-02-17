@@ -20,6 +20,6 @@ python -c "import torch; import speechbrain; print('Installation successful!')"
 
 ```
 
-## References:
-GTCRN: https://github.com/Xiaobin-Rong/gtcrn
-SpeechBrain: https://github.com/speechbrain/speechbrain
+## References
+- GTCRN: https://github.com/Xiaobin-Rong/gtcrn
+- SpeechBrain: https://github.com/speechbrain/speechbrain
