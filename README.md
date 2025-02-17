@@ -1,7 +1,5 @@
 # Lightweight Real-Time Speech Enhancement Framework
 
-<img src="https://raw.githubusercontent.com/speechbrain/speechbrain/develop/docs/images/speechbrain_logo.png" width="300" alt="SpeechBrain Integration">
-
 ## Overview
 A PyTorch-based framework for deploying ultra-lightweight speech enhancement models, featuring seamless integration with SpeechBrain's training pipelines and optimized spectral processing modules.
 
